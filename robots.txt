@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://harmonykitchenshop.com/sitemap.xml
